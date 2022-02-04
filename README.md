@@ -1,6 +1,6 @@
 # Finance Analytics 7: San Francisco Housing Analysis 2010-2016
 
-This Jupyter notebook contains analysis of the housing rental market data for San Francisco with professionally styled and formatted interactive visualizations.  It includes aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities. 
+#### This Jupyter notebook contains analysis of the housing rental market data for San Francisco with professionally styled and formatted interactive visualizations.  It includes aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities. 
 ---
 
 ## Technologies
